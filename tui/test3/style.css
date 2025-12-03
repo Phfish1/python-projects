@@ -1,0 +1,34 @@
+
+/* Widgets does by default fill up entire Width of container */
+/*	width: 100%; */
+
+#c_main {
+	layout: horizontal;
+
+	/* Makes a scrollbar if contained items dont fit */
+	/* 	This is default on Screen, but not all Widgets*/
+	overflow-y: auto; 
+
+	/* This is NOT default */
+	/*overflow-x: auto; */
+}
+
+#c_sec {
+	layout: vertical;
+}
+
+.box {
+	border: solid green;
+
+	/* `fr` ensures Widgest within parent fill up all space EQUALY */
+	/* `100%` Takes up 100% of the screen */
+	height: 1fr;
+
+	/* Make widgets fill up all Horizontal space */
+	/* 	By DEFAULT, widgets have a width: 100% /*
+	/*  	filling up the width and NOT sharing with other widgets */
+
+	width: 1fr;
+}
+
+

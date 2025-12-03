@@ -1,0 +1,29 @@
+#c_start {
+	layout: grid;
+	grid-size: 3 2;
+
+	grid-columns: 1fr 6fr 1fr;
+	grid-rows: 1fr 1fr;
+}
+
+.box {
+	border: solid green;
+	height: 1fr;
+}
+
+#main_box {
+	row-span: 2;
+}
+
+#left_box {
+	row-span: 2;
+}
+
+#right_box {
+	row-span: 2;
+}
+
+#status_box {
+	height: auto;
+	dock: bottom;
+}

@@ -1,0 +1,50 @@
+#c_buttons {
+	layout: horizontal;
+	height: auto;
+}
+
+#c_buttons>Button {
+	width: 1fr;
+	border: solid green;
+	text-style: bold;
+	content-align: center middle;
+	background: black;
+}
+
+#spawner:hover {
+	border: heavy orange;
+}
+
+#row_add:hover {
+	border: heavy aqua;
+}
+
+#column_add:hover {
+	border: heavy yellow;
+}
+
+
+#c_start {
+	/* Specifies grid layout (needed) */
+	layout: grid;
+
+	/* Defines How the Grid should look like
+	 *	First value defines n Columns 	(Left and Right)
+	 *	Second value defines n Rows 	(Up and Down)
+	 * 
+	 * Not defining the amount of Rows, makes our grid grow
+	 * Rows (downwards) dynamicly
+	 */
+
+
+	grid-size: 1;
+}
+
+
+.box {
+	border: solid green;
+	height: 1fr;
+}
+
+
+
