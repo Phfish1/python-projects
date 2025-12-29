@@ -1,0 +1,2606 @@
+[
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4yMjQuMC8xOS8w:171.23.224.0/19/default",
+        "comment": "Managementadresser",
+        "network": "171.23.224.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE5Mi4xNjguOTYuMC8xOS8w:192.168.96.0/19/default",
+        "comment": "DCN2.0 EZ",
+        "network": "192.168.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4wLjAvMjEvMA:171.23.0.0/21/default",
+        "comment": "DCN2.0 EZ",
+        "network": "171.23.0.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy44MC4wLzIwLzA:171.23.80.0/20/default",
+        "comment": "DCN2.0 tenant - Management",
+        "network": "171.23.80.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xMjguMC8yMS8w:171.23.128.0/21/default",
+        "comment": "Offisielle DMZ'er (tidligere FW3)",
+        "network": "171.23.128.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xMzYuMC8yMS8w:171.23.136.0/21/default",
+        "comment": "TEST of2.0",
+        "network": "171.23.136.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy44LjAvMjEvMA:171.23.8.0/21/default",
+        "comment": "DMZ/Linknett Leverand\u00f8rl\u00f8sning",
+        "network": "171.23.8.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEzOS4xMTUuMzIuMC8yNC8w:139.115.32.0/24/default",
+        "comment": "Evry-adresser",
+        "network": "139.115.32.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE1NS41NS4wLjAvMTYvMA:155.55.0.0/16/default",
+        "comment": "NAV-adresser",
+        "network": "155.55.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xNzYuMC8yMS8w:171.23.176.0/21/default",
+        "comment": "Interne DMZer",
+        "network": "171.23.176.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE5Mi4xNjguMTI4LjAvMTgvMA:192.168.128.0/18/default",
+        "comment": "Publikumsnett",
+        "network": "192.168.128.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4xNi4wLjAvMTIvMA:172.16.0.0/12/default",
+        "comment": "Eksterne leverand\u00f8rer og DMZer",
+        "network": "172.16.0.0/12",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4zMC4wLjAvMTYvMA:172.30.0.0/16/default",
+        "comment": "Tekniske nett - Eksterne leverand\u00f8rer og koblinger",
+        "network": "172.30.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xOTQuMC8yMy8w:171.23.194.0/23/default",
+        "comment": "Nortel IPT-ranger",
+        "network": "171.23.194.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xODQuMC8yMS8w:171.23.184.0/21/default",
+        "comment": "Sentrale interne DMZer og linker",
+        "network": "171.23.184.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xOTIuMC8yMy8w:171.23.192.0/23/default",
+        "comment": "Sentrale DMZer og linker",
+        "network": "171.23.192.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4yMDAuMC8yMS8w:171.23.200.0/21/default",
+        "comment": "Sentrale managementadresser",
+        "network": "171.23.200.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xNjguMC8yMS8w:171.23.168.0/21/default",
+        "comment": "Diverse interne DMZer etc",
+        "network": "171.23.168.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xOTguMC8yMy8w:171.23.198.0/23/default",
+        "comment": "Sentrale DMZer og linknett",
+        "network": "171.23.198.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE5Mi4xNjguMC4wLzE2LzA:192.168.0.0/16/default",
+        "comment": "DMZ/Publikumsnett",
+        "network": "192.168.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xNi4wLzI0LzA:171.23.16.0/24/default",
+        "comment": "DCN2.0 tenant - Tekniske nett",
+        "network": "171.23.16.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xNzIuMC8yNC8w:171.23.172.0/24/default",
+        "comment": "FW-2 utsideinterface",
+        "network": "171.23.172.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xNzkuMC8yNC8w:171.23.179.0/24/default",
+        "comment": "Leverandorforbindelser",
+        "network": "171.23.179.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xODAuMC8yNC8w:171.23.180.0/24/default",
+        "comment": "Leverandorforbindelser",
+        "network": "171.23.180.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xODEuMC8yNC8w:171.23.181.0/24/default",
+        "comment": "Leverandorforbindelser",
+        "network": "171.23.181.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xODIuMC8yNC8w:171.23.182.0/24/default",
+        "comment": "Leverandorforbindelser",
+        "network": "171.23.182.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xODMuMC8yNC8w:171.23.183.0/24/default",
+        "comment": "Leverandorforbindelser",
+        "network": "171.23.183.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xODQuMC8yNC8w:171.23.184.0/24/default",
+        "comment": "Telenor DC linknett",
+        "network": "171.23.184.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xOTQuMC8yNC8w:171.23.194.0/24/default",
+        "comment": "Nortel IPT",
+        "network": "171.23.194.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xOTUuMC8yNC8w:171.23.195.0/24/default",
+        "comment": "Nortel IPT Mngt pa lokasjon (Driftsnett)",
+        "network": "171.23.195.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xOTYuMC8yNC8w:171.23.196.0/24/default",
+        "comment": "Nortel IPT Mngt pa lokasjon (Driftsnett)",
+        "network": "171.23.196.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xOTcuMC8yNC8w:171.23.197.0/24/default",
+        "comment": "MPLS linker osv",
+        "network": "171.23.197.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE5Mi4xNjguMTYwLjAvMjIvMA:192.168.160.0/22/default",
+        "comment": "For IPTV STB, SNAPTV router tilbake dette nettet",
+        "network": "192.168.160.0/22",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE5Mi4xNjguMjAwLjAvMjEvMA:192.168.200.0/21/default",
+        "comment": "OKMAN utskutte DMZer",
+        "network": "192.168.200.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4zLjAvMjQvMA:171.23.3.0/24/default",
+        "comment": "Utskutte DMZer",
+        "network": "171.23.3.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xOC4wLzI0LzA:171.23.18.0/24/default",
+        "comment": "Telenor - Common Services",
+        "network": "171.23.18.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xODcuMC8yNC8w:171.23.187.0/24/default",
+        "comment": "Linknett for sentrale tjenester i extlev-losningen",
+        "network": "171.23.187.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xODYuMTI4LzI1LzA:171.23.186.128/25/default",
+        "comment": "OOB-nett over DMVPN",
+        "network": "171.23.186.128/25",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE5Mi4xNjguMjQ4LjAvMjEvMA:192.168.248.0/21/default",
+        "comment": "Linknett NAT-public",
+        "network": "192.168.248.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE5Mi4xNjguNjQuMC8xOS8w:192.168.64.0/19/default",
+        "comment": "IPTV",
+        "network": "192.168.64.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE5Mi4xNjguMjQwLjAvMjEvMA:192.168.240.0/21/default",
+        "comment": "TEST DMZ Ekstern OF2.0",
+        "network": "192.168.240.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4yOC4wLjAvMTYvMA:172.28.0.0/16/default",
+        "comment": "Eksterne leverandorer (IPSec VPN og direkte link)",
+        "network": "172.28.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4zMS4yMjQuMC8xOS8w:172.31.224.0/19/default",
+        "comment": "Linknett for UKE IPVPN NNI",
+        "network": "172.31.224.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE5Mi4xNjguMTkyLjAvMjUvMA:192.168.192.0/25/default",
+        "comment": "Kul - Oslo fengsel - Nat-public",
+        "network": "192.168.192.0/25",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4yNy4wLjAvMTYvMA:172.27.0.0/16/default",
+        "comment": "FA-LEV networks",
+        "network": "172.27.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4yOS4wLjAvMTYvMA:172.29.0.0/16/default",
+        "comment": "FA-TEK networks",
+        "network": "172.29.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4yOS4wLjAvMTkvMA:172.29.0.0/19/default",
+        "comment": "FA-OBY-TEK networks",
+        "network": "172.29.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4yOS4zMi4wLzE5LzA:172.29.32.0/19/default",
+        "comment": "FA-UBF-TEK networks",
+        "network": "172.29.32.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4yOS42NC4wLzE5LzA:172.29.64.0/19/default",
+        "comment": "FA-BBY-TEK networks",
+        "network": "172.29.64.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4yOS45Ni4wLzE5LzA:172.29.96.0/19/default",
+        "comment": "FA-KID-TEK networks",
+        "network": "172.29.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4zMS4xOTIuMC8xOS8w:172.31.192.0/19/default",
+        "comment": "Linknett for 2S IPVPN NNI",
+        "network": "172.31.192.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4xNy4wLzI0LzA:171.23.17.0/24/default",
+        "comment": "TN tenant - Tekniske nett",
+        "network": "171.23.17.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4zMS4xMjguMC8xOS8w:172.31.128.0/19/default",
+        "comment": "Linknett for Telenor IPVPN NNI",
+        "network": "172.31.128.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4yMDEuMC8yNC8w:171.23.201.0/24/default",
+        "comment": "2S Management",
+        "network": "171.23.201.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4wLjAvMTYvMA:171.23.0.0/16/default",
+        "comment": "Master Container - Oslo Kommune Public",
+        "network": "171.23.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE5Mi4xNjguMjA0LjQ4LzI4LzA:192.168.204.48/28/default",
+        "comment": "Stigenga bo-rehab - Utskutt DMZ",
+        "network": "192.168.204.48/28",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy45Ni4wLzE5LzA:171.23.96.0/19/default",
+        "comment": "SD-WAN - UKE - Underlay VPN",
+        "network": "171.23.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3Mi4zMS45Ni4wLzE5LzA:172.31.96.0/19/default",
+        "comment": "SD-WAN Linknett",
+        "network": "172.31.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4yMC4wLzI0LzA:171.23.20.0/24/default",
+        "comment": "DCN2.0 tenant - Tekniske nett",
+        "network": "171.23.20.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE5Mi4xNjguMTkyLjAvMjQvMA:192.168.192.0/24/default",
+        "comment": "HAV-2398 - Nat-Public",
+        "network": "192.168.192.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjAuMC4wLzgvNA:10.0.0.0/8/hkna",
+        "comment": "Lokalt nett for server, brukere etc.",
+        "network": "10.0.0.0/8",
+        "network_view": "hkna"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjAuMC4wLzgvMA:10.0.0.0/8/default",
+        "comment": "master container Oslo kommune",
+        "network": "10.0.0.0/8",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI1Mi4wLjAvMTYvMA:10.252.0.0/16/default",
+        "comment": "Azure Norway East - Oslo Felles",
+        "network": "10.252.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxLjI0MC4wLzIwLzA:10.21.240.0/20/default",
+        "comment": "SopraSteria - SolidCloud2 - OBF",
+        "network": "10.21.240.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI1NC4wLjAvMTYvMA:10.254.0.0/16/default",
+        "comment": "SD-WAN",
+        "network": "10.254.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzNy4wLjAvMTYvMA:10.137.0.0/16/default",
+        "comment": "SDA Infrastructure Underlay",
+        "network": "10.137.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzNy41LjAvMjQvMA:10.137.5.0/24/default",
+        "comment": "OK-352 - Ellingsrud\u00e5sen frivilligsentral - SDA Underlay",
+        "network": "10.137.5.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzNy40LjAvMjQvMA:10.137.4.0/24/default",
+        "comment": "OK-489 - Jordal Fritidsklubb - SDA Underlay",
+        "network": "10.137.4.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzNy4yLjAvMjQvMA:10.137.2.0/24/default",
+        "comment": "OK-2940 - Briedablikk - BHG - SDA Underlay",
+        "network": "10.137.2.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzNy4xLjAvMjQvMA:10.137.1.0/24/default",
+        "comment": "OK-451 - Ensj\u00f8veien 20 Frigo - SDA Underlay",
+        "network": "10.137.1.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzNy4wLjAvMjQvMA:10.137.0.0/24/default",
+        "comment": "OK-2998 - Telenor FBU LAB J2 - SDA Underlay",
+        "network": "10.137.0.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjc2LjAuMC8xNC8w:10.76.0.0/14/default",
+        "comment": "SDA Overlay pool - BYOD",
+        "network": "10.76.0.0/14",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjcyLjAuMC8xNC8w:10.72.0.0/14/default",
+        "comment": "SDA Overlay pool - GUEST",
+        "network": "10.72.0.0/14",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjY4LjAuMC8xNC8w:10.68.0.0/14/default",
+        "comment": "SDA Overlay pool - TECHNICAL",
+        "network": "10.68.0.0/14",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjY0LjAuMC8xNC8w:10.64.0.0/14/default",
+        "comment": "SDA Overlay pool - CAMPUS",
+        "network": "10.64.0.0/14",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxLjAuMC8xOS8w:10.21.0.0/19/default",
+        "comment": "Helseetaten teknisk nett (hel-tek)",
+        "network": "10.21.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjg0LjAuMC8xNC8w:10.84.0.0/14/default",
+        "comment": "Oslobygg OBF-ITV (OBF-TEK4)",
+        "network": "10.84.0.0/14",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0OS4wLjAvMTYvMA:10.249.0.0/16/default",
+        "comment": "Reservert til 2S",
+        "network": "10.249.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxOC4wLjAvMTUvMA:10.218.0.0/15/default",
+        "comment": "Reservert til 2S",
+        "network": "10.218.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxOC4xOTIuMC8xOS8w:10.218.192.0/19/default",
+        "comment": "Solidcloud 2 - Fillagring-som-en-Tjeneste",
+        "network": "10.218.192.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxOC4yNTQuMC8yMy8w:10.218.254.0/23/default",
+        "comment": "Solidcloud 2 - linknetts",
+        "network": "10.218.254.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjgwLjAuMC8xNC8w:10.80.0.0/14/default",
+        "comment": "Oslobygg sikker_nett (OBF-TEK3)",
+        "network": "10.80.0.0/14",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjgwLjU0LjAvMjQvMA:10.80.54.0/24/default",
+        "comment": "Div /29 nett",
+        "network": "10.80.54.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjgwLjE2LjAvMjAvMA:10.80.16.0/20/default",
+        "comment": "Reservert for fremtidig bruk",
+        "network": "10.80.16.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjgwLjAuMC8yMC8w:10.80.0.0/20/default",
+        "comment": "Reservert 2S SolidCloud",
+        "network": "10.80.0.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjgwLjUyLjAvMjQvMA:10.80.52.0/24/default",
+        "comment": "Salto Adgangssystem - Diverse Sykehjem",
+        "network": "10.80.52.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIzNi4wLjAvMTQvMA:10.236.0.0/14/default",
+        "comment": "Oslobygg SDA",
+        "network": "10.236.0.0/14",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjQ0LjAuMC8xNC8w:10.44.0.0/14/default",
+        "comment": "SDA Infrastructure pool (Underlay)",
+        "network": "10.44.0.0/14",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIzLjAuMC8xNi8w:10.23.0.0/16/default",
+        "comment": "OsloTEK datasenter Azure",
+        "network": "10.23.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyLjAuMC8xNi8w:10.22.0.0/16/default",
+        "comment": "Oslobygg datasenter",
+        "network": "10.22.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjQ4LjAuMC8xMy8w:10.48.0.0/13/default",
+        "comment": "WLAN gjestenett",
+        "network": "10.48.0.0/13",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjQuMC4wLzE1LzA:10.4.0.0/15/default",
+        "comment": "OK-i EMM nettverk",
+        "network": "10.4.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxNS4wLjAvMTYvMA:10.215.0.0/16/default",
+        "comment": "Vann- og avl\u00f8psetaten - scope 2",
+        "network": "10.215.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE3MS4wLjAvMTYvMA:10.171.0.0/16/default",
+        "comment": "UDMZ nettverk",
+        "network": "10.171.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjMxLjAuMC8xNi8w:10.31.0.0/16/default",
+        "comment": "Bydel Stovner teknisk nett",
+        "network": "10.31.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjg4LjAuMC8xNC8w:10.88.0.0/14/default",
+        "comment": "Diverse bruk OKMAN",
+        "network": "10.88.0.0/14",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjg4LjAuMC8xOC8w:10.88.0.0/18/default",
+        "comment": "IPTV fra Telia hos SYE",
+        "network": "10.88.0.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0OC4wLjAvMTYvMA:10.248.0.0/16/default",
+        "comment": "SDA PoC",
+        "network": "10.248.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0OC45Ni4wLzE5LzA:10.248.96.0/19/default",
+        "comment": "SDA PoC BYOD VN Overlay",
+        "network": "10.248.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0OC4xMjguMC8xOC8w:10.248.128.0/18/default",
+        "comment": "SDA PoC GRT underlay",
+        "network": "10.248.128.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0OC4yMzQuMC8yNC8w:10.248.234.0/24/default",
+        "comment": "SDA PoC Central linknets",
+        "network": "10.248.234.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0OC42NC4wLzE5LzA:10.248.64.0/19/default",
+        "comment": "SDA PoC GUEST overlay",
+        "network": "10.248.64.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0OC4zMi4wLzE5LzA:10.248.32.0/19/default",
+        "comment": "SDA PoC TECHNICAL overlay",
+        "network": "10.248.32.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0OC4wLjAvMTkvMA:10.248.0.0/19/default",
+        "comment": "SDA PoC CAMPUS overlay",
+        "network": "10.248.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjQwLjAuMC8xNi8w:10.40.0.0/16/default",
+        "comment": "UDE <a href=",
+        "network": "10.40.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjQyLjAuMC8xNi8w:10.42.0.0/16/default",
+        "comment": "UDE",
+        "network": "10.42.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjQzLjAuMC8xNi8w:10.43.0.0/16/default",
+        "comment": "UDE",
+        "network": "10.43.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjMyLjAuMC8xMy8w:10.32.0.0/13/default",
+        "comment": "IoT",
+        "network": "10.32.0.0/13",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIuMC4wLzE1LzA:10.2.0.0/15/default",
+        "comment": "Omsorgsbygg tekniske nett-2 - LAN - oby-tek-2",
+        "network": "10.2.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0LjAuMC8xNS8w:10.14.0.0/15/default",
+        "comment": "TP13 Reservert Cloud networks",
+        "network": "10.14.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0LjEyOC4wLzE3LzA:10.14.128.0/17/default",
+        "comment": "TP13 AWS Stockholm",
+        "network": "10.14.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0LjIyNC4wLzE5LzA:10.14.224.0/19/default",
+        "comment": "Dev",
+        "network": "10.14.224.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0LjE5Mi4wLzE5LzA:10.14.192.0/19/default",
+        "comment": "Test",
+        "network": "10.14.192.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0LjEyOC4wLzE4LzA:10.14.128.0/18/default",
+        "comment": "Prod",
+        "network": "10.14.128.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0LjE2MC4wLzIwLzA:10.14.160.0/20/default",
+        "comment": "External",
+        "network": "10.14.160.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0LjAuMC8xNy8w:10.14.0.0/17/default",
+        "comment": "TP13 AWS Ireland",
+        "network": "10.14.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0Ljk2LjAvMTkvMA:10.14.96.0/19/default",
+        "comment": "Dev",
+        "network": "10.14.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0LjY0LjAvMTkvMA:10.14.64.0/19/default",
+        "comment": "Test",
+        "network": "10.14.64.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0LjAuMC8xOC8w:10.14.0.0/18/default",
+        "comment": "Prod",
+        "network": "10.14.0.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjAuMC8xNS8w:10.12.0.0/15/default",
+        "comment": "TP13 Google Cloud",
+        "network": "10.12.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjEyOC4wLzE3LzA:10.13.128.0/17/default",
+        "comment": "TP13 GCP future region",
+        "network": "10.13.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjIyNC4wLzE5LzA:10.13.224.0/19/default",
+        "comment": "TP13 GCP future region Dev",
+        "network": "10.13.224.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjI0OC4wLzIxLzA:10.13.248.0/21/default",
+        "comment": "TP13 GCP future region Dev Infrastructure",
+        "network": "10.13.248.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjI0MC4wLzIxLzA:10.13.240.0/21/default",
+        "comment": "TP13 GCP future region Dev External",
+        "network": "10.13.240.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjIyNC4wLzIwLzA:10.13.224.0/20/default",
+        "comment": "TP13 GCP future region Dev Internal",
+        "network": "10.13.224.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjE5Mi4wLzE5LzA:10.13.192.0/19/default",
+        "comment": "TP13 GCP future region Test",
+        "network": "10.13.192.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjIxNi4wLzIxLzA:10.13.216.0/21/default",
+        "comment": "TP13 GCP future region Test Infrastructure",
+        "network": "10.13.216.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjIwOC4wLzIxLzA:10.13.208.0/21/default",
+        "comment": "TP13 GCP future region Test External",
+        "network": "10.13.208.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjE5Mi4wLzIwLzA:10.13.192.0/20/default",
+        "comment": "TP13 GCP future region Test Internal",
+        "network": "10.13.192.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjEyOC4wLzE4LzA:10.13.128.0/18/default",
+        "comment": "TP13 GCP future region Prod",
+        "network": "10.13.128.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjE3Ni4wLzIwLzA:10.13.176.0/20/default",
+        "comment": "TP13 GCP future region Prod Infrastructure",
+        "network": "10.13.176.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjE2MC4wLzIwLzA:10.13.160.0/20/default",
+        "comment": "TP13 GCP future region Prod External",
+        "network": "10.13.160.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjEyOC4wLzE5LzA:10.13.128.0/19/default",
+        "comment": "TP13 GCP future region Prod Internal",
+        "network": "10.13.128.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjAuMC8xNy8w:10.13.0.0/17/default",
+        "comment": "TP13 GCP future region",
+        "network": "10.13.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjk2LjAvMTkvMA:10.13.96.0/19/default",
+        "comment": "TP13 GCP future region Dev",
+        "network": "10.13.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjEyMC4wLzIxLzA:10.13.120.0/21/default",
+        "comment": "TP13 GCP future region Dev Infrastructure",
+        "network": "10.13.120.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjExMi4wLzIxLzA:10.13.112.0/21/default",
+        "comment": "TP13 GCP future region Dev External",
+        "network": "10.13.112.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjk2LjAvMjAvMA:10.13.96.0/20/default",
+        "comment": "TP13 GCP future region Dev Internal",
+        "network": "10.13.96.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjY0LjAvMTkvMA:10.13.64.0/19/default",
+        "comment": "TP13 GCP future region Test",
+        "network": "10.13.64.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjg4LjAvMjEvMA:10.13.88.0/21/default",
+        "comment": "TP13 GCP future region Test Infrastructure",
+        "network": "10.13.88.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjgwLjAvMjEvMA:10.13.80.0/21/default",
+        "comment": "TP13 GCP future region Test External",
+        "network": "10.13.80.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjY0LjAvMjAvMA:10.13.64.0/20/default",
+        "comment": "TP13 GCP future region Test Internal",
+        "network": "10.13.64.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjAuMC8xOC8w:10.13.0.0/18/default",
+        "comment": "TP13 GCP future region Prod",
+        "network": "10.13.0.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjQ4LjAvMjAvMA:10.13.48.0/20/default",
+        "comment": "TP13 GCP future region Prod Infrastructure",
+        "network": "10.13.48.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjMyLjAvMjAvMA:10.13.32.0/20/default",
+        "comment": "TP13 GCP future region Prod External",
+        "network": "10.13.32.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzLjAuMC8xOS8w:10.13.0.0/19/default",
+        "comment": "TP13 GCP future region Prod Internal",
+        "network": "10.13.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjEyOC4wLzE3LzA:10.12.128.0/17/default",
+        "comment": "TP13 GCP future region",
+        "network": "10.12.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjIyNC4wLzE5LzA:10.12.224.0/19/default",
+        "comment": "TP13 GCP future region Dev",
+        "network": "10.12.224.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjI0OC4wLzIxLzA:10.12.248.0/21/default",
+        "comment": "TP13 GCP future region Dev Infrastructure",
+        "network": "10.12.248.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjI0MC4wLzIxLzA:10.12.240.0/21/default",
+        "comment": "TP13 GCP future region Dev External",
+        "network": "10.12.240.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjIyNC4wLzIwLzA:10.12.224.0/20/default",
+        "comment": "TP13 GCP future region Dev Internal",
+        "network": "10.12.224.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjE5Mi4wLzE5LzA:10.12.192.0/19/default",
+        "comment": "TP13 GCP future region Test",
+        "network": "10.12.192.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjIxNi4wLzIxLzA:10.12.216.0/21/default",
+        "comment": "TP13 GCP future region Test Infrastructure",
+        "network": "10.12.216.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjIwOC4wLzIxLzA:10.12.208.0/21/default",
+        "comment": "TP13 GCP future region Test External",
+        "network": "10.12.208.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjE5Mi4wLzIwLzA:10.12.192.0/20/default",
+        "comment": "TP13 GCP future region Test Internal",
+        "network": "10.12.192.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjEyOC4wLzE4LzA:10.12.128.0/18/default",
+        "comment": "TP13 GCP future region Prod",
+        "network": "10.12.128.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjE3Ni4wLzIwLzA:10.12.176.0/20/default",
+        "comment": "TP13 GCP future region Prod Infrastructure",
+        "network": "10.12.176.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjE2MC4wLzIwLzA:10.12.160.0/20/default",
+        "comment": "TP13 GCP future region Prod External",
+        "network": "10.12.160.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjEyOC4wLzE5LzA:10.12.128.0/19/default",
+        "comment": "TP13 GCP future region Prod Internal",
+        "network": "10.12.128.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjAuMC8xNy8w:10.12.0.0/17/default",
+        "comment": "TP13 GCP Belgium",
+        "network": "10.12.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjk2LjAvMTkvMA:10.12.96.0/19/default",
+        "comment": "TP13 GCP Belgium Dev",
+        "network": "10.12.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjEyMC4wLzIxLzA:10.12.120.0/21/default",
+        "comment": "TP13 GCP Belgium Dev Infrastructure",
+        "network": "10.12.120.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjExMi4wLzIxLzA:10.12.112.0/21/default",
+        "comment": "TP13 GCP Belgium Dev External",
+        "network": "10.12.112.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjk2LjAvMjAvMA:10.12.96.0/20/default",
+        "comment": "TP13 GCP Belgium Dev Internal",
+        "network": "10.12.96.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjY0LjAvMTkvMA:10.12.64.0/19/default",
+        "comment": "TP13 GCP Belgium Test",
+        "network": "10.12.64.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjg4LjAvMjEvMA:10.12.88.0/21/default",
+        "comment": "TP13 GCP Belgium Test Infrastructure",
+        "network": "10.12.88.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjgwLjAvMjEvMA:10.12.80.0/21/default",
+        "comment": "TP13 GCP Belgium Test External",
+        "network": "10.12.80.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjY0LjAvMjAvMA:10.12.64.0/20/default",
+        "comment": "TP13 GCP Belgium Test Internal",
+        "network": "10.12.64.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjAuMC8xOC8w:10.12.0.0/18/default",
+        "comment": "TP13 GCP Belgium Prod",
+        "network": "10.12.0.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjQ4LjAvMjAvMA:10.12.48.0/20/default",
+        "comment": "TP13 GCP Belgium Prod Infrastructure",
+        "network": "10.12.48.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjMyLjAvMjAvMA:10.12.32.0/20/default",
+        "comment": "TP13 GCP Belgium Prod External",
+        "network": "10.12.32.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyLjAuMC8xOS8w:10.12.0.0/19/default",
+        "comment": "TP13 GCP Belgium Prod Internal",
+        "network": "10.12.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjAuMC8xNS8w:10.10.0.0/15/default",
+        "comment": "TP13 Amazon Web Services",
+        "network": "10.10.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjEyOC4wLzE3LzA:10.11.128.0/17/default",
+        "comment": "TP13 AWS future region",
+        "network": "10.11.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjIyNC4wLzE5LzA:10.11.224.0/19/default",
+        "comment": "TP13 AWS future region Dev",
+        "network": "10.11.224.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjI0OC4wLzIxLzA:10.11.248.0/21/default",
+        "comment": "TP13 AWS future region Dev Infrastructure",
+        "network": "10.11.248.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjI0MC4wLzIxLzA:10.11.240.0/21/default",
+        "comment": "TP13 AWS future region Dev External",
+        "network": "10.11.240.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjIyNC4wLzIwLzA:10.11.224.0/20/default",
+        "comment": "TP13 AWS future region Dev Internal",
+        "network": "10.11.224.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjE5Mi4wLzE5LzA:10.11.192.0/19/default",
+        "comment": "TP13 AWS future region Test",
+        "network": "10.11.192.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjIxNi4wLzIxLzA:10.11.216.0/21/default",
+        "comment": "TP13 AWS future region Test Infrastructure",
+        "network": "10.11.216.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjIwOC4wLzIxLzA:10.11.208.0/21/default",
+        "comment": "TP13 AWS future region Test External",
+        "network": "10.11.208.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjE5Mi4wLzIwLzA:10.11.192.0/20/default",
+        "comment": "TP13 AWS future region Test Internal",
+        "network": "10.11.192.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjEyOC4wLzE4LzA:10.11.128.0/18/default",
+        "comment": "TP13 AWS future region Prod",
+        "network": "10.11.128.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjE3Ni4wLzIwLzA:10.11.176.0/20/default",
+        "comment": "TP13 AWS future region Prod Infrastructure",
+        "network": "10.11.176.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjE2MC4wLzIwLzA:10.11.160.0/20/default",
+        "comment": "TP13 AWS future region Prod External",
+        "network": "10.11.160.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjEyOC4wLzE5LzA:10.11.128.0/19/default",
+        "comment": "TP13 AWS future region Prod Internal",
+        "network": "10.11.128.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjAuMC8xNy8w:10.11.0.0/17/default",
+        "comment": "TP13 AWS Ireland",
+        "network": "10.11.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjk2LjAvMTkvMA:10.11.96.0/19/default",
+        "comment": "TP13 AWS Ireland Dev",
+        "network": "10.11.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjEyMC4wLzIxLzA:10.11.120.0/21/default",
+        "comment": "TP13 AWS Ireland Dev Infrastructure",
+        "network": "10.11.120.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjExMi4wLzIxLzA:10.11.112.0/21/default",
+        "comment": "TP13 AWS Ireland Dev External",
+        "network": "10.11.112.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjk2LjAvMjAvMA:10.11.96.0/20/default",
+        "comment": "TP13 AWS Ireland Dev Internal",
+        "network": "10.11.96.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjY0LjAvMTkvMA:10.11.64.0/19/default",
+        "comment": "TP13 AWS Ireland Test",
+        "network": "10.11.64.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjg4LjAvMjEvMA:10.11.88.0/21/default",
+        "comment": "TP13 AWS Ireland Test Infrastructure",
+        "network": "10.11.88.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjgwLjAvMjEvMA:10.11.80.0/21/default",
+        "comment": "TP13 AWS Ireland Test External",
+        "network": "10.11.80.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjY0LjAvMjAvMA:10.11.64.0/20/default",
+        "comment": "TP13 AWS Ireland Test Internal",
+        "network": "10.11.64.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjAuMC8xOC8w:10.11.0.0/18/default",
+        "comment": "TP13 AWS Ireland Prod",
+        "network": "10.11.0.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjQ4LjAvMjAvMA:10.11.48.0/20/default",
+        "comment": "TP13 AWS Ireland Prod Infrastructure",
+        "network": "10.11.48.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjMyLjAvMjAvMA:10.11.32.0/20/default",
+        "comment": "TP13 AWS Ireland Prod External",
+        "network": "10.11.32.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExLjAuMC8xOS8w:10.11.0.0/19/default",
+        "comment": "TP13 AWS Ireland Prod Internal",
+        "network": "10.11.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjEyOC4wLzE3LzA:10.10.128.0/17/default",
+        "comment": "TP13 AWS future region",
+        "network": "10.10.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjIyNC4wLzE5LzA:10.10.224.0/19/default",
+        "comment": "TP13 AWS future region Dev",
+        "network": "10.10.224.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjI0OC4wLzIxLzA:10.10.248.0/21/default",
+        "comment": "TP13 AWS future region Dev Infrastructure",
+        "network": "10.10.248.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjI0MC4wLzIxLzA:10.10.240.0/21/default",
+        "comment": "TP13 AWS future region Dev External",
+        "network": "10.10.240.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjIyNC4wLzIwLzA:10.10.224.0/20/default",
+        "comment": "TP13 AWS future region Dev Internal",
+        "network": "10.10.224.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjE5Mi4wLzE5LzA:10.10.192.0/19/default",
+        "comment": "TP13 AWS future region Test",
+        "network": "10.10.192.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjIxNi4wLzIxLzA:10.10.216.0/21/default",
+        "comment": "TP13 AWS future region Test Infrastructure",
+        "network": "10.10.216.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjIwOC4wLzIxLzA:10.10.208.0/21/default",
+        "comment": "TP13 AWS future region Test External",
+        "network": "10.10.208.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjE5Mi4wLzIwLzA:10.10.192.0/20/default",
+        "comment": "TP13 AWS future region Test Internal",
+        "network": "10.10.192.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjEyOC4wLzE4LzA:10.10.128.0/18/default",
+        "comment": "TP13 AWS future region Prod",
+        "network": "10.10.128.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjE3Ni4wLzIwLzA:10.10.176.0/20/default",
+        "comment": "TP13 AWS future region Prod Infrastructure",
+        "network": "10.10.176.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjE2MC4wLzIwLzA:10.10.160.0/20/default",
+        "comment": "TP13 AWS future region Prod External",
+        "network": "10.10.160.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjEyOC4wLzE5LzA:10.10.128.0/19/default",
+        "comment": "TP13 AWS future region Prod Internal",
+        "network": "10.10.128.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjAuMC8xNy8w:10.10.0.0/17/default",
+        "comment": "TP13 AWS Frankfurt",
+        "network": "10.10.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjk2LjAvMTkvMA:10.10.96.0/19/default",
+        "comment": "TP13 AWS Frankfurt Dev",
+        "network": "10.10.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjEyMC4wLzIxLzA:10.10.120.0/21/default",
+        "comment": "TP13 AWS Frankfurt Dev Infrastructure",
+        "network": "10.10.120.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjExMi4wLzIxLzA:10.10.112.0/21/default",
+        "comment": "TP13 AWS Frankfurt Dev External",
+        "network": "10.10.112.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjk2LjAvMjAvMA:10.10.96.0/20/default",
+        "comment": "TP13 AWS Frankfurt Dev Internal",
+        "network": "10.10.96.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjY0LjAvMTkvMA:10.10.64.0/19/default",
+        "comment": "TP13 AWS Frankfurt Test",
+        "network": "10.10.64.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjg4LjAvMjEvMA:10.10.88.0/21/default",
+        "comment": "TP13 AWS Frankfurt Test Infrastructure",
+        "network": "10.10.88.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjgwLjAvMjEvMA:10.10.80.0/21/default",
+        "comment": "TP13 AWS Frankfurt Test External",
+        "network": "10.10.80.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjY0LjAvMjAvMA:10.10.64.0/20/default",
+        "comment": "TP13 AWS Frankfurt Test Internal",
+        "network": "10.10.64.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjAuMC8xOC8w:10.10.0.0/18/default",
+        "comment": "TP13 AWS Frankfurt Prod",
+        "network": "10.10.0.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjQ4LjAvMjAvMA:10.10.48.0/20/default",
+        "comment": "TP13 AWS Frankfurt Prod Infrastructure",
+        "network": "10.10.48.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjMyLjAvMjAvMA:10.10.32.0/20/default",
+        "comment": "TP13 AWS Frankfurt Prod External",
+        "network": "10.10.32.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwLjAuMC8xOS8w:10.10.0.0/19/default",
+        "comment": "TP13 AWS Frankfurt Prod Internal",
+        "network": "10.10.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjguMC4wLzE1LzA:10.8.0.0/15/default",
+        "comment": "Azure",
+        "network": "10.8.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjkuMC4wLzE3LzA:10.9.0.0/17/default",
+        "comment": "Azure North Europe",
+        "network": "10.9.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjguMTI4LjAvMTcvMA:10.8.128.0/17/default",
+        "comment": "Azure future region",
+        "network": "10.8.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjguMC4wLzE3LzA:10.8.0.0/17/default",
+        "comment": "Azure West Europe",
+        "network": "10.8.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjguOTYuMC8xOS8w:10.8.96.0/19/default",
+        "comment": "Azure West Europe - DevOps spoke",
+        "network": "10.8.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjguNjQuMC8xOS8w:10.8.64.0/19/default",
+        "comment": "Azure West Europe - Traditional spoke",
+        "network": "10.8.64.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjguMC4wLzE4LzA:10.8.0.0/18/default",
+        "comment": "Azure West Europe - HUB",
+        "network": "10.8.0.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE3My4wLjAvMTYvMA:10.173.0.0/16/default",
+        "comment": "Deichmanske",
+        "network": "10.173.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE3My4yMjQuMC8yMS8w:10.173.224.0/21/default",
+        "comment": "Deichmanske - Hovedbibliotek - DNA - Multicast Subnet",
+        "network": "10.173.224.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE3My4wLjAvMTcvMA:10.173.0.0/17/default",
+        "comment": "Deichmanske - Hovedbibliotek - DNA - Overlay",
+        "network": "10.173.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE3My4xMjguMC8xOC8w:10.173.128.0/18/default",
+        "comment": "Deichmanske - Hovedbibliotek - DNA - Infrastructure",
+        "network": "10.173.128.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjU2LjAuMC8xMy8w:10.56.0.0/13/default",
+        "comment": "nat-public",
+        "network": "10.56.0.0/13",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyOC4xMjguMC8xNy8w:10.228.128.0/17/default",
+        "comment": "TEST 2S EZ",
+        "network": "10.228.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyOC4wLjAvMTcvMA:10.228.0.0/17/default",
+        "comment": "2S EZ",
+        "network": "10.228.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyNy4wLjAvMTYvMA:10.227.0.0/16/default",
+        "comment": "TEST 2S IZ for SS",
+        "network": "10.227.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyMy4wLjAvMTYvMA:10.223.0.0/16/default",
+        "comment": "TEST 2S IZ",
+        "network": "10.223.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyMS4wLjAvMTYvMA:10.221.0.0/16/default",
+        "comment": "TEST 2S IS",
+        "network": "10.221.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyNi4wLjAvMTYvMA:10.226.0.0/16/default",
+        "comment": "2S IZ for SS",
+        "network": "10.226.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyNS4wLjAvMTYvMA:10.225.0.0/16/default",
+        "comment": "TEST 2S SS",
+        "network": "10.225.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyNC4wLjAvMTYvMA:10.224.0.0/16/default",
+        "comment": "2S SS",
+        "network": "10.224.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyMi4wLjAvMTYvMA:10.222.0.0/16/default",
+        "comment": "2S IZ",
+        "network": "10.222.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyMC4wLjAvMTYvMA:10.220.0.0/16/default",
+        "comment": "2S IS",
+        "network": "10.220.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI3LjAuMC8xNi8w:10.27.0.0/16/default",
+        "comment": "Sykehjemsetaten - Teknisk nett 2",
+        "network": "10.27.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxNi4wLjAvMTUvMA:10.216.0.0/15/default",
+        "comment": "UDE managementnett",
+        "network": "10.216.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI2LjAuMC8xNi8w:10.26.0.0/16/default",
+        "comment": "Sykehjemsetaten - Teknisk nett",
+        "network": "10.26.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI1LjAuMC8xNi8w:10.25.0.0/16/default",
+        "comment": "Boligbygg teknisk nett",
+        "network": "10.25.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI1LjEyNi4wLzIzLzA:10.25.126.0/23/default",
+        "comment": "Boligbygg teknisk nett - linknett",
+        "network": "10.25.126.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0MC4wLjAvMTMvMA:10.240.0.0/13/default",
+        "comment": "Telenor IPVPN interne adresser",
+        "network": "10.240.0.0/13",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwLjAuMC8xNi8w:10.20.0.0/16/default",
+        "comment": "Undervisningsbygg tekniske nett 2 - LAN",
+        "network": "10.20.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIyOS4wLjAvMTYvMA:10.229.0.0/16/default",
+        "comment": "TEST Fellessone OF2.0",
+        "network": "10.229.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIzNC4wLjAvMTUvMA:10.234.0.0/15/default",
+        "comment": "TEST DMZ Intern OF2.0",
+        "network": "10.234.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIzMi4wLjAvMTUvMA:10.232.0.0/15/default",
+        "comment": "TEST Sikker sone OF2.0",
+        "network": "10.232.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIzMC4wLjAvMTUvMA:10.230.0.0/15/default",
+        "comment": "TEST Intern sone OF2.0",
+        "network": "10.230.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0LjAuMC8xNi8w:10.24.0.0/16/default",
+        "comment": "Kultur- og idrettsbygg tekniske nett (kid-tek)",
+        "network": "10.24.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0LjEyNi4wLzIzLzA:10.24.126.0/23/default",
+        "comment": "Kultur- og idrettsetaten tekniske nett - linknett",
+        "network": "10.24.126.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE2LjAuMC8xNC8w:10.16.0.0/14/default",
+        "comment": "Undervisningsbygg tekniske nett - LAN",
+        "network": "10.16.0.0/14",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjAuMC4wLzE1LzA:10.0.0.0/15/default",
+        "comment": "Omsorgsbygg tekniske nett - LAN",
+        "network": "10.0.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEuMTQ0LjAvMjAvMA:10.1.144.0/20/default",
+        "comment": "SYE-2902 - T\u00e5senhjemmet",
+        "network": "10.1.144.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEuOTYuMC8xOS8w:10.1.96.0/19/default",
+        "comment": "Oslo Storbylegevakt - OSBL",
+        "network": "10.1.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEuODAuMC8yMC8w:10.1.80.0/20/default",
+        "comment": "Majorstuhjemmene",
+        "network": "10.1.80.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEuNjQuMC8yMC8w:10.1.64.0/20/default",
+        "comment": "Lambertseter alders- og sykehjem (LAH) - SYE-2934",
+        "network": "10.1.64.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEuNDguMC8yMC8w:10.1.48.0/20/default",
+        "comment": "Mortensrud sykehjem",
+        "network": "10.1.48.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEuMzIuMC8yMC8w:10.1.32.0/20/default",
+        "comment": "Furuset hageby",
+        "network": "10.1.32.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEuMTYuMC8yMC8w:10.1.16.0/20/default",
+        "comment": "Dronnings Ingrids Hage",
+        "network": "10.1.16.0/20",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjAuMjQwLjAvMjEvMA:10.0.240.0/21/default",
+        "comment": "SYE-811 - Solfjellshogda helsehus",
+        "network": "10.0.240.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjAuMTc2LjAvMjEvMA:10.0.176.0/21/default",
+        "comment": "sye-2993 - Lindeberg Sykehjem",
+        "network": "10.0.176.0/21",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxNC4wLjAvMTYvMA:10.214.0.0/16/default",
+        "comment": "Vann- og Avl\u00f8psetaten",
+        "network": "10.214.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExMi4wLjAvMTIvMA:10.112.0.0/12/default",
+        "comment": "IP-telefoni",
+        "network": "10.112.0.0/12",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExOS4xNjAuMC8xOS8w:10.119.160.0/19/default",
+        "comment": "Telenor IPT - SIP-trunks",
+        "network": "10.119.160.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNy4wLjAvMTkvMA:10.127.0.0/19/default",
+        "comment": "Storbyavdelingen - Voice",
+        "network": "10.127.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNS4xNjAuMC8xOS8w:10.125.160.0/19/default",
+        "comment": "Kemnerkontoret voice",
+        "network": "10.125.160.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNi4yMjQuMC8xOS8w:10.126.224.0/19/default",
+        "comment": "Helse- og Sosialombudet i Oslo - Voice",
+        "network": "10.126.224.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNi4xMjguMC8xOS8w:10.126.128.0/19/default",
+        "comment": "Oslo Havn - Voice",
+        "network": "10.126.128.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExOS4yMjQuMC8xOS8w:10.119.224.0/19/default",
+        "comment": "Boligbygg Oslo KF - Voice",
+        "network": "10.119.224.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNS42NC4wLzE5LzA:10.125.64.0/19/default",
+        "comment": "Raadhusets forvaltningstjeneste - Voice",
+        "network": "10.125.64.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNS4wLjAvMTkvMA:10.125.0.0/19/default",
+        "comment": "Samferdselsetaten - Voice",
+        "network": "10.125.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNC4xNjAuMC8xOS8w:10.124.160.0/19/default",
+        "comment": "Energi og Gjenvinning - Voice",
+        "network": "10.124.160.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNy45Ni4wLzIyLzA:10.127.96.0/22/default",
+        "comment": "Kommunal konkurranse Oslo KF (KKF) - Voice",
+        "network": "10.127.96.0/22",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNy4zMi4wLzE5LzA:10.127.32.0/19/default",
+        "comment": "Sykehjemsetaten - Voice",
+        "network": "10.127.32.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNi42NC4wLzE5LzA:10.126.64.0/19/default",
+        "comment": "Helse- og velferdsetaten - Voice",
+        "network": "10.126.64.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNi4xOTIuMC8xOS8w:10.126.192.0/19/default",
+        "comment": "Eiendoms og Byfornyelsesetaten - Voice",
+        "network": "10.126.192.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNi4xNjAuMC8xOS8w:10.126.160.0/19/default",
+        "comment": "OL 2022 (kid) - Voice",
+        "network": "10.126.160.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNi45Ni4wLzE5LzA:10.126.96.0/19/default",
+        "comment": "Gravferdsetaten - Voice",
+        "network": "10.126.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNi4wLjAvMTgvMA:10.126.0.0/18/default",
+        "comment": "Rusmiddeletaten - Voice",
+        "network": "10.126.0.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNS45Ni4wLzE5LzA:10.125.96.0/19/default",
+        "comment": "Kommuneadvokaten - Voice",
+        "network": "10.125.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNS4zMi4wLzE5LzA:10.125.32.0/19/default",
+        "comment": "Arbeidstreningsbedriften - Voice",
+        "network": "10.125.32.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNS4xOTIuMC8xOS8w:10.125.192.0/19/default",
+        "comment": "Byradsavdelingen (BYR) - Voice",
+        "network": "10.125.192.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNC4zMi4wLzE5LzA:10.124.32.0/19/default",
+        "comment": "Undervisningsbygg - Voice",
+        "network": "10.124.32.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNC4xOTIuMC8xOS8w:10.124.192.0/19/default",
+        "comment": "Legevakten - Voice",
+        "network": "10.124.192.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyNC4wLjAvMTkvMA:10.124.0.0/19/default",
+        "comment": "Friluftsetaten - Voice",
+        "network": "10.124.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyMy4yMjQuMC8xOS8w:10.123.224.0/19/default",
+        "comment": "Omsorgsbygg - Voice",
+        "network": "10.123.224.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyMy4wLjAvMTkvMA:10.123.0.0/19/default",
+        "comment": "Brann og redningsetaten - Voice",
+        "network": "10.123.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyMy4xMjguMC8xOC8w:10.123.128.0/18/default",
+        "comment": "Tannhelsetjenesten - Voice",
+        "network": "10.123.128.0/18",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyMy45Ni4wLzE5LzA:10.123.96.0/19/default",
+        "comment": "Renovasjonsetaten - Voice",
+        "network": "10.123.96.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyMS4xMjguMC8xNy8w:10.121.128.0/17/default",
+        "comment": "Barne- og familieetaten (BFE) - Voice",
+        "network": "10.121.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyMS4wLjAvMTcvMA:10.121.0.0/17/default",
+        "comment": "Kultur og idrettsetaten - Voice",
+        "network": "10.121.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyMC4wLjAvMTYvMA:10.120.0.0/16/default",
+        "comment": "Utdanningsetaten  - Voice",
+        "network": "10.120.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyMC4yNTIuMC8yMi8w:10.120.252.0/22/default",
+        "comment": "Linknett UDE-IPT SDA",
+        "network": "10.120.252.0/22",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExOS4xOTIuMC8xOS8w:10.119.192.0/19/default",
+        "comment": "UKE  - Voice",
+        "network": "10.119.192.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExOS4xMjguMC8xOS8w:10.119.128.0/19/default",
+        "comment": "TET - Voice",
+        "network": "10.119.128.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExOS4wLjAvMTcvMA:10.119.0.0/17/default",
+        "comment": "Bydel Ostensjo - Voice",
+        "network": "10.119.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExOC4xMjguMC8xNy8w:10.118.128.0/17/default",
+        "comment": "Bydel Vestre Aker - Voice",
+        "network": "10.118.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExOC4wLjAvMTcvMA:10.118.0.0/17/default",
+        "comment": "Bydel Ullern - Voice",
+        "network": "10.118.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExNy4wLjAvMTcvMA:10.117.0.0/17/default",
+        "comment": "Bydel St. Hanshaugen - Voice",
+        "network": "10.117.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExNy4xMjguMC8xNy8w:10.117.128.0/17/default",
+        "comment": "Bydel Sondre Nordstrand - Voice",
+        "network": "10.117.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExNi4xMjguMC8xNy8w:10.116.128.0/17/default",
+        "comment": "Bydel sagene - Voice",
+        "network": "10.116.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExNi4wLjAvMTcvMA:10.116.0.0/17/default",
+        "comment": "Nordstrand - Voice",
+        "network": "10.116.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExNS4xMjguMC8xNy8w:10.115.128.0/17/default",
+        "comment": "Bydel Nordre Aker - Voice",
+        "network": "10.115.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExNS4wLjAvMTcvMA:10.115.0.0/17/default",
+        "comment": "Bydel Grunerlokka - Voice",
+        "network": "10.115.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExNC4xMjguMC8xNy8w:10.114.128.0/17/default",
+        "comment": "Bydel Grorud - Voice",
+        "network": "10.114.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExNC4wLjAvMTcvMA:10.114.0.0/17/default",
+        "comment": "Bydel Gamle Oslo - Voice",
+        "network": "10.114.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExMy4xMjguMC8xNy8w:10.113.128.0/17/default",
+        "comment": "Bydel Frogner - Voice",
+        "network": "10.113.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExMy4wLjAvMTcvMA:10.113.0.0/17/default",
+        "comment": "Bydel Bjerke - Voice",
+        "network": "10.113.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExMi4xMjguMC8xNy8w:10.112.128.0/17/default",
+        "comment": "Bydel Alna - Voice",
+        "network": "10.112.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExMi4wLjAvMTcvMA:10.112.0.0/17/default",
+        "comment": "Bydel Stovner - Voice",
+        "network": "10.112.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI1NS4wLjAvMTYvMA:10.255.0.0/16/default",
+        "comment": "DMVPN-tuneller",
+        "network": "10.255.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI1MS4wLjAvMTYvMA:10.251.0.0/16/default",
+        "comment": "Driftsleverandorer",
+        "network": "10.251.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI1My4wLjAvMTYvMA:10.253.0.0/16/default",
+        "comment": "DAX",
+        "network": "10.253.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI1My4xMjguMC8xNy8w:10.253.128.0/17/default",
+        "comment": "Sikker sone",
+        "network": "10.253.128.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI1My4wLjAvMTcvMA:10.253.0.0/17/default",
+        "comment": "Intern sone",
+        "network": "10.253.0.0/17",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI1My4xMjcuMC8yNC8w:10.253.127.0/24/default",
+        "comment": "Linknett dax",
+        "network": "10.253.127.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjkyLjAuMC8xNC8w:10.92.0.0/14/default",
+        "comment": "LAN Managementadresser",
+        "network": "10.92.0.0/14",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjk1LjAuMC8xNi8w:10.95.0.0/16/default",
+        "comment": "LAN mgmt bak hmg-4103",
+        "network": "10.95.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjk0LjAuMC8xNi8w:10.94.0.0/16/default",
+        "comment": "LAN mgmt bak d01-4102",
+        "network": "10.94.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjkzLjAuMC8xNi8w:10.93.0.0/16/default",
+        "comment": "LAN mgmt bak d01-4101",
+        "network": "10.93.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjkyLjAuMC8xNi8w:10.92.0.0/16/default",
+        "comment": "LAN mgmt bak d01-4100",
+        "network": "10.92.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyOS4wLjAvMTYvMA:10.129.0.0/16/default",
+        "comment": "DCN2.0 FS",
+        "network": "10.129.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzNC4wLjAvMTUvMA:10.134.0.0/15/default",
+        "comment": "DCN2.0 IZ",
+        "network": "10.134.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzMi4wLjAvMTUvMA:10.132.0.0/15/default",
+        "comment": "DCN2.0 SS",
+        "network": "10.132.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzMi4yNDYuMC8yNC8w:10.132.246.0/24/default",
+        "comment": "UKE og 2s SC2",
+        "network": "10.132.246.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzMi4xNTYuMC8yMi8w:10.132.156.0/22/default",
+        "comment": "VDI Leverandor access SS",
+        "network": "10.132.156.0/22",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzMi4xNTkuMC8yNi8w:10.132.159.0/26/default",
+        "comment": "Solution VEL-LIV no DHCP",
+        "network": "10.132.159.0/26",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzMC4wLjAvMTUvMA:10.130.0.0/15/default",
+        "comment": "DCN2.0 IS",
+        "network": "10.130.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzMS4wLjAvMTYvMA:10.131.0.0/16/default",
+        "comment": "FA20-KLIENT networks",
+        "network": "10.131.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE4Ny4wLjAvMTYvMA:10.187.0.0/16/default",
+        "comment": "Kommunerevisjonen",
+        "network": "10.187.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0Mi4wLjAvMTYvMA:10.142.0.0/16/default",
+        "comment": "Bydel Bjerke",
+        "network": "10.142.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0Mi4yNTQuMC8yNC8w:10.142.254.0/24/default",
+        "comment": "Linknett mellom UDE-LAN og IPVPN for utskutt helsesoster-nett",
+        "network": "10.142.254.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjQxLjAuMC8xNi8w:10.41.0.0/16/default",
+        "comment": "UDE admin-nett <a href=\"https://171.23.190.244/NIOS-UDE\">UDE IB</a>",
+        "network": "10.41.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxMy4wLjAvMTYvMA:10.213.0.0/16/default",
+        "comment": "Kommunal konkurranse Oslo KF",
+        "network": "10.213.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxMi4wLjAvMTYvMA:10.212.0.0/16/default",
+        "comment": "Byr\u00e5ds Sekretariat",
+        "network": "10.212.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwOS4wLjAvMTYvMA:10.209.0.0/16/default",
+        "comment": "Sykehjemsetaten",
+        "network": "10.209.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwOS4xMjQuMC8yMi8w:10.209.124.0/22/default",
+        "comment": "Linknett til SYE-lokasjoner",
+        "network": "10.209.124.0/22",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwOC4wLjAvMTYvMA:10.208.0.0/16/default",
+        "comment": "Storbyavdelingen (ikke i bruk)",
+        "network": "10.208.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwNy4wLjAvMTYvMA:10.207.0.0/16/default",
+        "comment": "Helse og Sosialombudet i Oslo",
+        "network": "10.207.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwNi4wLjAvMTYvMA:10.206.0.0/16/default",
+        "comment": "Eiendoms og Byfornyelsesetaten",
+        "network": "10.206.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwNS4wLjAvMTYvMA:10.205.0.0/16/default",
+        "comment": "KID",
+        "network": "10.205.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwNC4wLjAvMTYvMA:10.204.0.0/16/default",
+        "comment": "Oslo Havn",
+        "network": "10.204.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwNC4wLjAvMTkvMA:10.204.0.0/19/default",
+        "comment": "Oslo Havn Akerstranda og Tjursoya",
+        "network": "10.204.0.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwMy4wLjAvMTYvMA:10.203.0.0/16/default",
+        "comment": "Gravferdsetaten",
+        "network": "10.203.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwMi4wLjAvMTYvMA:10.202.0.0/16/default",
+        "comment": "Rusmiddeletaten",
+        "network": "10.202.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwMS4wLjAvMTYvMA:10.201.0.0/16/default",
+        "comment": "Helse og Velferdsetaten",
+        "network": "10.201.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIwMC4wLjAvMTYvMA:10.200.0.0/16/default",
+        "comment": "Skolehelsetjenesten",
+        "network": "10.200.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE5OS4wLjAvMTYvMA:10.199.0.0/16/default",
+        "comment": "Byr\u00e5dsavdelingen (BYR)",
+        "network": "10.199.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE5OC4wLjAvMTYvMA:10.198.0.0/16/default",
+        "comment": "Kemneren",
+        "network": "10.198.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE5Ny4wLjAvMTYvMA:10.197.0.0/16/default",
+        "comment": "En\u00f8ketaten",
+        "network": "10.197.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE5Ni4wLjAvMTYvMA:10.196.0.0/16/default",
+        "comment": "Kommuneadvokaten",
+        "network": "10.196.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE5NS4wLjAvMTYvMA:10.195.0.0/16/default",
+        "comment": "R\u00e5dhusets forvaltningstjeneste",
+        "network": "10.195.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE5NC4wLjAvMTYvMA:10.194.0.0/16/default",
+        "comment": "Arbeidstreningsbedriften",
+        "network": "10.194.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE5My4wLjAvMTYvMA:10.193.0.0/16/default",
+        "comment": "Bymilj\u00f8etaten",
+        "network": "10.193.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE5Mi4wLjAvMTYvMA:10.192.0.0/16/default",
+        "comment": "Plan- og Bygningsetaten",
+        "network": "10.192.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE5MS4wLjAvMTYvMA:10.191.0.0/16/default",
+        "comment": "Legevakten",
+        "network": "10.191.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE5MC4wLjAvMTYvMA:10.190.0.0/16/default",
+        "comment": "Energi og Gjenvinningsetaten",
+        "network": "10.190.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE4OS4wLjAvMTYvMA:10.189.0.0/16/default",
+        "comment": "Overformynderiet",
+        "network": "10.189.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE4OC4wLjAvMTYvMA:10.188.0.0/16/default",
+        "comment": "N\u00e6ringsetaten",
+        "network": "10.188.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE4Ni4wLjAvMTYvMA:10.186.0.0/16/default",
+        "comment": "Undervisningsbygg",
+        "network": "10.186.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE4NS4wLjAvMTYvMA:10.185.0.0/16/default",
+        "comment": "Friluftsetaten",
+        "network": "10.185.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE4NC4wLjAvMTYvMA:10.184.0.0/16/default",
+        "comment": "Omsorgsbygg",
+        "network": "10.184.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE4My4wLjAvMTYvMA:10.183.0.0/16/default",
+        "comment": "Gr\u00f8nt og Idrettsetaten",
+        "network": "10.183.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE4Mi4wLjAvMTYvMA:10.182.0.0/16/default",
+        "comment": "Renovasjonsetaten",
+        "network": "10.182.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE4MS4wLjAvMTYvMA:10.181.0.0/16/default",
+        "comment": "Tannhelsetjenesten",
+        "network": "10.181.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE4MC4wLjAvMTYvMA:10.180.0.0/16/default",
+        "comment": "Byantikvaren",
+        "network": "10.180.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE3OS4wLjAvMTYvMA:10.179.0.0/16/default",
+        "comment": "R\u00e5dhusets forvaltningstjeneste brukere",
+        "network": "10.179.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE3OC4wLjAvMTYvMA:10.178.0.0/16/default",
+        "comment": "Brann og Redningsetaten",
+        "network": "10.178.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE3Ni4wLjAvMTUvMA:10.176.0.0/15/default",
+        "comment": "Vann og Avl\u00f8psetaten",
+        "network": "10.176.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE3NC4wLjAvMTYvMA:10.174.0.0/16/default",
+        "comment": "Barne- og familieetaten",
+        "network": "10.174.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE3Mi4wLjAvMTYvMA:10.172.0.0/16/default",
+        "comment": "Kultur og idrettsetaten",
+        "network": "10.172.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE2OS4wLjAvMTYvMA:10.169.0.0/16/default",
+        "comment": "Boligbygg Oslo KF",
+        "network": "10.169.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE2OC4wLjAvMTYvMA:10.168.0.0/16/default",
+        "comment": "Trafikketaten",
+        "network": "10.168.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE2Ni4wLjAvMTYvMA:10.166.0.0/16/default",
+        "comment": "Bydel \u00d8stensj\u00f8",
+        "network": "10.166.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE2NC4wLjAvMTYvMA:10.164.0.0/16/default",
+        "comment": "Bydel Vestre Aker",
+        "network": "10.164.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE2NC4yNTQuMC8yNC8w:10.164.254.0/24/default",
+        "comment": "Linknett mellom UDE-LAN og IPVPN for utskutt helsesoster-nett",
+        "network": "10.164.254.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE2Mi4wLjAvMTYvMA:10.162.0.0/16/default",
+        "comment": "Bydel Ullern",
+        "network": "10.162.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE2Mi4yNTQuMC8yNC8w:10.162.254.0/24/default",
+        "comment": "Linknett mellom UDE-LAN og IPVPN for utskutt helsesoster-nett",
+        "network": "10.162.254.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE2MC4wLjAvMTYvMA:10.160.0.0/16/default",
+        "comment": "Bydel S\u00f8ndre Nordstrand",
+        "network": "10.160.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE1OC4wLjAvMTYvMA:10.158.0.0/16/default",
+        "comment": "Bydel St. Hanshaugen",
+        "network": "10.158.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE1Ni4wLjAvMTYvMA:10.156.0.0/16/default",
+        "comment": "Bydel Sagene",
+        "network": "10.156.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE1NC4wLjAvMTYvMA:10.154.0.0/16/default",
+        "comment": "Bydel Nordstrand",
+        "network": "10.154.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE1Mi4wLjAvMTYvMA:10.152.0.0/16/default",
+        "comment": "Bydel Nordre Aker",
+        "network": "10.152.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE1MC4wLjAvMTYvMA:10.150.0.0/16/default",
+        "comment": "Bydel Gr\u00fcnerl\u00f8kka",
+        "network": "10.150.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0OC4wLjAvMTYvMA:10.148.0.0/16/default",
+        "comment": "Bydel Grorud",
+        "network": "10.148.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0Ni4wLjAvMTYvMA:10.146.0.0/16/default",
+        "comment": "Bydel Gamle Oslo",
+        "network": "10.146.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0NC4wLjAvMTYvMA:10.144.0.0/16/default",
+        "comment": "Bydel Frogner",
+        "network": "10.144.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0MC4wLjAvMTUvMA:10.140.0.0/15/default",
+        "comment": "Bydel Alna",
+        "network": "10.140.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzOC4wLjAvMTYvMA:10.138.0.0/16/default",
+        "comment": "Bydel Stovner",
+        "network": "10.138.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEzNi4wLjAvMTYvMA:10.136.0.0/16/default",
+        "comment": "Utviklings og Kompetanseetaten",
+        "network": "10.136.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxMC4wLjAvMTUvMA:10.210.0.0/15/default",
+        "comment": "UDE",
+        "network": "10.210.0.0/15",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxMS4wLjAvMTYvMA:10.211.0.0/16/default",
+        "comment": "UDE-mngt",
+        "network": "10.211.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEyOC4wLjAvMTYvMA:10.128.0.0/16/default",
+        "comment": "Oslofelles",
+        "network": "10.128.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjk2LjAuMC8xMi8w:10.96.0.0/12/default",
+        "comment": "LAN Managementadresser",
+        "network": "10.96.0.0/12",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExMS4wLjAvMTYvMA:10.111.0.0/16/default",
+        "comment": "LAN mgmt bak d02-4120",
+        "network": "10.111.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjExMC4wLjAvMTYvMA:10.110.0.0/16/default",
+        "comment": "LAN mgmt bak d02-4119",
+        "network": "10.110.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwOS4wLjAvMTYvMA:10.109.0.0/16/default",
+        "comment": "LAN mgmt bak d02-4118",
+        "network": "10.109.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwOC4wLjAvMTYvMA:10.108.0.0/16/default",
+        "comment": "LAN mgmt bak d03-4117",
+        "network": "10.108.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwNy4wLjAvMTYvMA:10.107.0.0/16/default",
+        "comment": "LAN mgmt bak d03-4116",
+        "network": "10.107.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwNi4wLjAvMTYvMA:10.106.0.0/16/default",
+        "comment": "LAN mgmt bak d03-4115",
+        "network": "10.106.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwNS4wLjAvMTYvMA:10.105.0.0/16/default",
+        "comment": "LAN mgmt bak d04-4114",
+        "network": "10.105.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwNC4wLjAvMTYvMA:10.104.0.0/16/default",
+        "comment": "LAN mgmt bak d04-4113",
+        "network": "10.104.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwMy4wLjAvMTYvMA:10.103.0.0/16/default",
+        "comment": "LAN mgmt bak d04-4112",
+        "network": "10.103.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwMi4wLjAvMTYvMA:10.102.0.0/16/default",
+        "comment": "LAN mgmt bak d05-4111",
+        "network": "10.102.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwMS4wLjAvMTYvMA:10.101.0.0/16/default",
+        "comment": "LAN mgmt bak d05-4109",
+        "network": "10.101.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjEwMC4wLjAvMTYvMA:10.100.0.0/16/default",
+        "comment": "LAN mgmt bak d06-4108",
+        "network": "10.100.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjk5LjAuMC8xNi8w:10.99.0.0/16/default",
+        "comment": "LAN mgmt bak d06-4107",
+        "network": "10.99.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjk4LjAuMC8xNi8w:10.98.0.0/16/default",
+        "comment": "LAN mgmt bak d06-4106",
+        "network": "10.98.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjk3LjAuMC8xNi8w:10.97.0.0/16/default",
+        "comment": "LAN mgmt bak dig-4105",
+        "network": "10.97.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjk2LjAuMC8xNi8w:10.96.0.0/16/default",
+        "comment": "LAN mgmt bak pre-4104",
+        "network": "10.96.0.0/16",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDE3MS4yMy4zMi4wLzE5LzA:171.23.32.0/19/default",
+        "comment": "Holdt av til SD-WAN Underlay",
+        "network": "171.23.32.0/19",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjAuMi42NC8yNi8w:10.0.2.64/26/default",
+        "comment": "Div smallnetwork - Special FW rules",
+        "network": "10.0.2.64/26",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE2LjE0My4wLzI0LzA:10.16.143.0/24/default",
+        "comment": "Div smallnetwork - Special FW Rules",
+        "network": "10.16.143.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE1Ni4yNTQuMC8yNC8w:10.156.254.0/24/default",
+        "comment": "Link-Nett Bydel sagene SHT SDA",
+        "network": "10.156.254.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0NC4yNTQuMC8yNC8w:10.144.254.0/24/default",
+        "comment": "UDE linknett utskutt helsesoster",
+        "network": "10.144.254.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjIxOC4yLjAvMjQvMA:10.218.2.0/24/default",
+        "comment": "Xen Citrix Management",
+        "network": "10.218.2.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0Mi4yNTQuMjQvMjkvMA:10.142.254.24/29/default",
+        "comment": "UDE1684 - Linderud skole Linknett",
+        "network": "10.142.254.24/29",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI0LjUuMC8yNC8w:10.24.5.0/24/default",
+        "comment": "KID-TEK - BYM-VPN",
+        "network": "10.24.5.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI3LjI0MC4wLzIyLzA:10.27.240.0/22/default",
+        "comment": "Telia APN S2S - I BRUK",
+        "network": "10.27.240.0/22",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjI3LjI0NC4wLzIyLzA:10.27.244.0/22/default",
+        "comment": "Reservert Fremtidig bruk - APN",
+        "network": "10.27.244.0/22",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE1MC4yNTQuMC8yNC8w:10.150.254.0/24/default",
+        "comment": "Bydel Gr\u00fcnerl\u00f8kka - SHT linknett SDA",
+        "network": "10.150.254.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE1OC4yNTQuMC8yNC8w:10.158.254.0/24/default",
+        "comment": "Bydel St. Hanshaugen - SHT SDA linknett",
+        "network": "10.158.254.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE1Mi4yNTQuMC8yNC8w:10.152.254.0/24/default",
+        "comment": "SDA SHT linknet Bydel Nordre Aker",
+        "network": "10.152.254.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "networkcontainer/ZG5zLm5ldHdvcmtfY29udGFpbmVyJDEwLjE0Ni4yNTQuMC8yNC8w:10.146.254.0/24/default",
+        "comment": "Linknett SDA SHT - Bydel Gamle Oslo",
+        "network": "10.146.254.0/24",
+        "network_view": "default"
+    }
+]

@@ -1,9 +1,20 @@
+Screen {
+	layers: main help;
+	overflow-y: hidden;
+
+	align: center middle;
+}
+
+
 #c_start {
+	layer: main;
+
 	layout: grid;
 	grid-size: 3 2;
 
 	grid-columns: 1fr 6fr 1fr;
 	grid-rows: 1fr 1fr;
+
 }
 
 .box {
@@ -23,7 +34,51 @@
 	row-span: 2;
 }
 
+
 #status_box {
-	height: auto;
+	layer: main;
+	border: solid green;
 	dock: bottom;
+	height: 3;
+
+	layout: grid;
+	grid-size: 3 1;
+
 }
+
+#status_box Static {
+	content-align: center middle;
+	height: 100%;
+}
+
+#search_bar {
+	content-align: center middle;
+	border-left: vkey;
+	border-right: vkey;
+}
+
+
+#help_menu {
+	layer: help;
+	height: 60%;
+	width: 60%;
+
+	layout: grid;
+	grid-size: 2;
+
+	border: solid deeppink;
+	border-title-align: center;
+
+
+}
+
+.help_text {
+	height: 1fr;
+	width: 1fr;
+
+	content-align: center middle;
+	border: solid blue;
+}       
+
+
+
